@@ -1,3 +1,26 @@
 body{
-  background-color: lightpink;
+  background-color: antiquewhite;
+}
+
+h2{
+  color: rgb(135, 164, 250);
+}
+article{
+  padding: 5px;
+}
+articleOne{
+  font-family: 'Courier New', Courier, monospace;
+  border: 4px solid palevioletred;
+  padding: 4px;
+}
+
+articleTwo{
+  font-family: 'Times New Roman', Times, serif;
+  border: 3px dashed black;
+  padding: 3px;
+}
+articleThree{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 5px dotted palevioletred ;
+  padding: 5px;
 }
